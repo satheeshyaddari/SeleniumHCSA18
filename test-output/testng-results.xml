@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19374" started-at="2023-03-01T12:41:00 IST" finished-at="2023-03-01T12:41:19 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19374" started-at="2023-03-01T12:41:00 IST" finished-at="2023-03-01T12:41:19 IST">
+      <class name="testsricpts.FirstTest">
+        <test-method status="PASS" signature="classConfiguration()[pri:0, instance:testsricpts.FirstTest@64f6106c]" name="classConfiguration" is-config="true" duration-ms="2086" started-at="2023-03-01T12:41:00 IST" finished-at="2023-03-01T12:41:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classConfiguration -->
+        <test-method status="PASS" signature="methodConfiguration()[pri:0, instance:testsricpts.FirstTest@64f6106c]" name="methodConfiguration" is-config="true" duration-ms="9877" started-at="2023-03-01T12:41:02 IST" finished-at="2023-03-01T12:41:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodConfiguration -->
+        <test-method status="PASS" signature="firstTest()[pri:0, instance:testsricpts.FirstTest@64f6106c]" name="firstTest" duration-ms="6584" started-at="2023-03-01T12:41:12 IST" finished-at="2023-03-01T12:41:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTest -->
+        <test-method status="PASS" signature="methodTeardown()[pri:0, instance:testsricpts.FirstTest@64f6106c]" name="methodTeardown" is-config="true" duration-ms="748" started-at="2023-03-01T12:41:18 IST" finished-at="2023-03-01T12:41:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodTeardown -->
+        <test-method status="PASS" signature="classteardown()[pri:0, instance:testsricpts.FirstTest@64f6106c]" name="classteardown" is-config="true" duration-ms="1" started-at="2023-03-01T12:41:19 IST" finished-at="2023-03-01T12:41:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classteardown -->
+      </class> <!-- testsricpts.FirstTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
